@@ -1,0 +1,7 @@
+
+.idea
+*.pyc
+mysite/migrations/0*.py
+venv
+*.pyc
+
